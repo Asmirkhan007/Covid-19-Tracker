@@ -3,7 +3,9 @@
 📌 Introduction
 This is a React.js Application which consumes a COVID-19 Data API to provide real-time statistics and data insight about the COVID-19 Pandemic that is currently wreaking a havoc around the world. The primary purpose of the project was to create a statistical visualization for the data obtained from this API and allow the user to get real-time updates about the Pandemic situation
 
-Made with :heart: by [Asmir khan ]
+Made with :heart: by Asmir khan
+
+Deployed Website Link: https://covid-19-tracker-f5270.web.app/
 
 ## Available Scripts
 
