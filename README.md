@@ -1,12 +1,9 @@
 # React COVID Tracker
 
-### Want to join the BEST JavaScript Course on the planet and learn how to build the projects like Covid Tracker with JavaScript, NodeJS, and MongoDB?
+📌 Introduction
+This is a React.js Application which consumes a COVID-19 Data API to provide real-time statistics and data insight about the COVID-19 Pandemic that is currently wreaking a havoc around the world. The primary purpose of the project was to create a statistical visualization for the data obtained from this API and allow the user to get real-time updates about the Pandemic situation
 
-Check out our `Profit With JavaScript Course`    :point_down: 
-
-[Click Here](https://cleverprogrammer.unstacksite.com/pwj?utm_source=github&utm_medium=repo&utm_content=20-july-live-sonny-naz-covid-19-tracker&utm_campaign=live-everyday&utm_term=warm)
-
-Made with :heart: by [Naz](https://www.instagram.com/nazdumanskyy/) & [Sonny](https://www.instagram.com/ssssangha/)
+Made with :heart: by [Asmir khan ]
 
 ## Available Scripts
 
